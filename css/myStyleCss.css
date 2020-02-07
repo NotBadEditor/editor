@@ -1,0 +1,34 @@
+
+.bold {
+    font-weight: bold;
+    
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.lighter {
+    font-weight: lighter;
+}
+
+
+
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.normal {
+    font-style: normal;
+}
+
+
+
+
+
+
+
